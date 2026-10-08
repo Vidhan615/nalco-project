@@ -1,0 +1,4 @@
+model,target,train_n,test_n,last_training_label_date,first_test_execution_date,last_test_execution_date,rmse_pct,direction_accuracy,always_up_accuracy,ridge_penalty
+zero_return,next_session_open_to_close_log_return,1221,314,2024-12-31,2025-01-01,2026-04-08,2.306321096566413,0.48089171974522293,0.5191082802547771,10
+train_mean,next_session_open_to_close_log_return,1221,314,2024-12-31,2025-01-01,2026-04-08,2.319540732535938,0.48089171974522293,0.5191082802547771,10
+NALCO_only,next_session_open_to_close_log_return,1221,314,2024-12-31,2025-01-01,2026-04-08,2.3215035700499533,0.5031847133757962,0.5191082802547771,10

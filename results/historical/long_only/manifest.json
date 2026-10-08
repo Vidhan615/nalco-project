@@ -1,0 +1,37 @@
+{
+  "dataset_kind": "historical_unverified",
+  "python": "3.11.9",
+  "numpy": "2.2.5",
+  "pandas": "2.2.3",
+  "episodes": 200,
+  "seeds": [
+    7,
+    42,
+    99
+  ],
+  "config": {
+    "initial_capital": 500000,
+    "fee_bps": 10,
+    "slippage_bps": 5,
+    "allocation": 0.95,
+    "monthly_target": null,
+    "intraday": false
+  },
+  "external_features": [],
+  "source_fingerprints": {
+    "NALCO": {
+      "filename": "nalco_daily.csv",
+      "sha256": "d629356205bd3d11c91d5bed58003cabd20cc45ce028a1f70013a948cd2aad61"
+    }
+  },
+  "train_start": "2020-01-29",
+  "train_last_execution": "2024-12-31",
+  "test_first_execution": "2025-01-01",
+  "test_last_execution": "2026-04-08",
+  "notes": [
+    "Reused historical evaluation window; not a fresh final deployment test",
+    "Costs are illustrative, not a complete Indian brokerage/tax schedule",
+    "Raw source provenance and corporate-action adjustments unverified",
+    "No broker, live feed, guaranteed returns or validated forecasting edge"
+  ]
+}

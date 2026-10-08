@@ -1,0 +1,161 @@
+monthly_file,year,month,reported_return_pct,correct_return_pct,difference_pct_points,reported_target_hit,correct_target_hit,partial_final_month
+backtest_5pct_monthly_2025_2026/monthly_performance.csv,2025,1,5.66,5.660303999999994,-0.0003039999999936427,True,True,False
+backtest_5pct_monthly_2025_2026/monthly_performance.csv,2025,2,8.09,8.088074401148804,0.001925598851196142,True,True,False
+backtest_5pct_monthly_2025_2026/monthly_performance.csv,2025,3,5.52,5.518387497532085,0.0016125024679150002,True,True,False
+backtest_5pct_monthly_2025_2026/monthly_performance.csv,2025,4,-7.6,-9.506835897954048,1.906835897954048,False,False,False
+backtest_5pct_monthly_2025_2026/monthly_performance.csv,2025,5,9.83,12.143583271023584,-2.3135832710235835,True,True,False
+backtest_5pct_monthly_2025_2026/monthly_performance.csv,2025,6,2.33,2.331361633223361,-0.001361633223361025,False,False,False
+backtest_5pct_monthly_2025_2026/monthly_performance.csv,2025,7,2.17,4.636086772680681,-2.466086772680681,False,False,False
+backtest_5pct_monthly_2025_2026/monthly_performance.csv,2025,8,5.01,2.5390116120005857,2.470988387999414,True,False,False
+backtest_5pct_monthly_2025_2026/monthly_performance.csv,2025,9,6.63,6.625571358251792,0.0044286417482082285,True,True,False
+backtest_5pct_monthly_2025_2026/monthly_performance.csv,2025,10,0.0,0.0,0.0,False,False,False
+backtest_5pct_monthly_2025_2026/monthly_performance.csv,2025,11,0.0,0.0,0.0,False,False,False
+backtest_5pct_monthly_2025_2026/monthly_performance.csv,2025,12,0.0,0.0,0.0,False,False,False
+backtest_5pct_monthly_2025_2026/monthly_performance.csv,2026,1,0.0,0.0,0.0,False,False,False
+backtest_5pct_monthly_2025_2026/monthly_performance.csv,2026,2,5.22,5.221203329393198,-0.001203329393198338,True,True,False
+backtest_5pct_monthly_2025_2026/monthly_performance.csv,2026,3,5.02,5.016480836561676,0.0035191634383231474,True,True,False
+backtest_5pct_monthly_2025_2026/monthly_performance.csv,2026,4,0.0,0.0,0.0,False,False,True
+rl_intraday_short/results/monthly_performance.csv,2025,1,-2.72,-0.5879999999999996,-2.1320000000000006,False,False,False
+rl_intraday_short/results/monthly_performance.csv,2025,2,1.57,-0.6062648372429869,2.1762648372429867,False,False,False
+rl_intraday_short/results/monthly_performance.csv,2025,3,-7.03,-6.904694193765182,-0.12530580623481846,False,False,False
+rl_intraday_short/results/monthly_performance.csv,2025,4,-8.85,-10.85746849385597,2.0074684938559706,False,False,False
+rl_intraday_short/results/monthly_performance.csv,2025,5,5.75,7.975084689664724,-2.2250846896647243,True,True,False
+rl_intraday_short/results/monthly_performance.csv,2025,6,5.08,5.083867091188132,-0.003867091188132221,True,True,False
+rl_intraday_short/results/monthly_performance.csv,2025,7,3.45,3.451243066161802,-0.00124306616180192,False,False,False
+rl_intraday_short/results/monthly_performance.csv,2025,8,1.41,-1.5513166908984188,2.9613166908984185,False,False,False
+rl_intraday_short/results/monthly_performance.csv,2025,9,1.86,4.928513672410495,-3.0685136724104947,False,False,False
+rl_intraday_short/results/monthly_performance.csv,2025,10,0.46,0.4644158082410143,-0.004415808241014285,False,False,False
+rl_intraday_short/results/monthly_performance.csv,2025,11,1.91,1.912105227855876,-0.0021052278558761905,False,False,False
+rl_intraday_short/results/monthly_performance.csv,2025,12,6.52,6.518277522865934,0.001722477134065592,True,True,False
+rl_intraday_short/results/monthly_performance.csv,2026,1,-4.74,-4.744202774921513,0.004202774921512997,False,False,False
+rl_intraday_short/results/monthly_performance.csv,2026,2,0.0,0.0,0.0,False,False,False
+rl_intraday_short/results/monthly_performance.csv,2026,3,0.0,0.0,0.0,False,False,False
+rl_intraday_short/results/monthly_performance.csv,2026,4,0.0,0.0,0.0,False,False,True
+backtest_multi_stock\HINDALCO_10pct_monthly.csv,2025,1,-1.1,0.2276099999999781,-1.3276099999999782,False,False,False
+backtest_multi_stock\HINDALCO_10pct_monthly.csv,2025,2,3.29,1.5757234957513244,1.7142765042486756,False,False,False
+backtest_multi_stock\HINDALCO_10pct_monthly.csv,2025,3,10.37,10.749505043468568,-0.37950504346856917,True,True,False
+backtest_multi_stock\HINDALCO_10pct_monthly.csv,2025,4,-4.4,-5.523799151153542,1.1237991511535412,False,False,False
+backtest_multi_stock\HINDALCO_10pct_monthly.csv,2025,5,0.88,2.469740207096094,-1.589740207096094,False,False,False
+backtest_multi_stock\HINDALCO_10pct_monthly.csv,2025,6,5.48,5.078285718526132,0.40171428147386834,False,False,False
+backtest_multi_stock\HINDALCO_10pct_monthly.csv,2025,7,-3.88,-2.36341146969713,-1.51658853030287,False,False,False
+backtest_multi_stock\HINDALCO_10pct_monthly.csv,2025,8,6.64,2.7085591433338108,3.931440856666189,False,False,False
+backtest_multi_stock\HINDALCO_10pct_monthly.csv,2025,9,5.08,7.411727146850744,-2.331727146850744,False,False,False
+backtest_multi_stock\HINDALCO_10pct_monthly.csv,2025,10,0.28,0.2798359092477609,0.00016409075223910996,False,False,False
+backtest_multi_stock\HINDALCO_10pct_monthly.csv,2025,11,-1.07,-1.0666032768703926,-0.003396723129607482,False,False,False
+backtest_multi_stock\HINDALCO_10pct_monthly.csv,2025,12,1.79,1.7925620801620967,-0.0025620801620966915,False,False,False
+backtest_multi_stock\HINDALCO_10pct_monthly.csv,2026,1,7.3,7.301392014202679,-0.0013920142026790927,False,False,False
+backtest_multi_stock\HINDALCO_10pct_monthly.csv,2026,2,1.65,0.0,1.65,False,False,False
+backtest_multi_stock\HINDALCO_10pct_monthly.csv,2026,3,2.98,2.3472967476714457,0.6327032523285543,False,False,False
+backtest_multi_stock\HINDALCO_10pct_monthly.csv,2026,4,1.0,3.2998901087592625,-2.2998901087592625,False,False,True
+backtest_multi_stock\HINDALCO_5pct_monthly.csv,2025,1,-1.1,0.2276099999999781,-1.3276099999999782,False,False,False
+backtest_multi_stock\HINDALCO_5pct_monthly.csv,2025,2,6.26,4.856775493299725,1.4032245067002744,True,False,False
+backtest_multi_stock\HINDALCO_5pct_monthly.csv,2025,3,-3.98,-1.2799794168043666,-2.7000205831956334,False,False,False
+backtest_multi_stock\HINDALCO_5pct_monthly.csv,2025,4,-3.52,-7.269380774444468,3.7493807744444676,False,False,False
+backtest_multi_stock\HINDALCO_5pct_monthly.csv,2025,5,3.14,4.369895967330884,-1.2298959673308842,False,False,False
+backtest_multi_stock\HINDALCO_5pct_monthly.csv,2025,6,-1.42,-1.4204913255767893,0.0004913255767893254,False,False,False
+backtest_multi_stock\HINDALCO_5pct_monthly.csv,2025,7,0.0,0.0,0.0,False,False,False
+backtest_multi_stock\HINDALCO_5pct_monthly.csv,2025,8,4.12,4.121033571484634,-0.0010335714846334554,False,False,False
+backtest_multi_stock\HINDALCO_5pct_monthly.csv,2025,9,0.32,0.316022825908302,0.00397717409169801,False,False,False
+backtest_multi_stock\HINDALCO_5pct_monthly.csv,2025,10,0.0,0.0,0.0,False,False,False
+backtest_multi_stock\HINDALCO_5pct_monthly.csv,2025,11,0.76,0.760220541333112,-0.00022054133311200097,False,False,False
+backtest_multi_stock\HINDALCO_5pct_monthly.csv,2025,12,1.17,1.1701713573191164,-0.0001713573191164386,False,False,False
+backtest_multi_stock\HINDALCO_5pct_monthly.csv,2026,1,0.62,0.6183245869628928,0.0016754130371071652,False,False,False
+backtest_multi_stock\HINDALCO_5pct_monthly.csv,2026,2,0.0,0.0,0.0,False,False,False
+backtest_multi_stock\HINDALCO_5pct_monthly.csv,2026,3,3.28,0.9834999861854764,2.2965000138145233,False,False,False
+backtest_multi_stock\HINDALCO_5pct_monthly.csv,2026,4,1.29,3.593026737971905,-2.303026737971905,False,False,True
+backtest_multi_stock\NALCO_10pct_monthly.csv,2025,1,-4.86,-2.7682560000000023,-2.091743999999998,False,False,False
+backtest_multi_stock\NALCO_10pct_monthly.csv,2025,2,-9.35,-12.179133596534063,2.8291335965340636,False,False,False
+backtest_multi_stock\NALCO_10pct_monthly.csv,2025,3,-2.28,-1.165060072776869,-1.1149399272231308,False,False,False
+backtest_multi_stock\NALCO_10pct_monthly.csv,2025,4,-8.85,-10.854013745235235,2.004013745235236,False,False,False
+backtest_multi_stock\NALCO_10pct_monthly.csv,2025,5,5.74,7.972238122838093,-2.232238122838093,False,False,False
+backtest_multi_stock\NALCO_10pct_monthly.csv,2025,6,3.49,3.489536278367167,0.0004637216328333693,False,False,False
+backtest_multi_stock\NALCO_10pct_monthly.csv,2025,7,0.92,3.353038598521363,-2.433038598521363,False,False,False
+backtest_multi_stock\NALCO_10pct_monthly.csv,2025,8,6.14,0.6050778067669516,5.534922193233048,False,False,False
+backtest_multi_stock\NALCO_10pct_monthly.csv,2025,9,3.77,6.900260450128992,-3.130260450128992,False,False,False
+backtest_multi_stock\NALCO_10pct_monthly.csv,2025,10,0.0,0.0,0.0,False,False,False
+backtest_multi_stock\NALCO_10pct_monthly.csv,2025,11,0.0,0.0,0.0,False,False,False
+backtest_multi_stock\NALCO_10pct_monthly.csv,2025,12,0.0,0.0,0.0,False,False,False
+backtest_multi_stock\NALCO_10pct_monthly.csv,2026,1,3.76,3.762064177000779,-0.0020641770007792104,False,False,False
+backtest_multi_stock\NALCO_10pct_monthly.csv,2026,2,3.64,3.642681897551059,-0.002681897551058743,False,False,False
+backtest_multi_stock\NALCO_10pct_monthly.csv,2026,3,4.77,4.77433320633649,-0.004333206336490036,False,False,False
+backtest_multi_stock\NALCO_10pct_monthly.csv,2026,4,0.0,0.0,0.0,False,False,True
+backtest_multi_stock\NALCO_5pct_monthly.csv,2025,1,-7.58,-5.552630000000002,-2.0273699999999977,False,False,False
+backtest_multi_stock\NALCO_5pct_monthly.csv,2025,2,-9.35,-12.18337789607058,2.83337789607058,False,False,False
+backtest_multi_stock\NALCO_5pct_monthly.csv,2025,3,5.52,6.582104832030766,-1.0621048320307667,True,True,False
+backtest_multi_stock\NALCO_5pct_monthly.csv,2025,4,-8.85,-10.734246669559578,1.8842466695595785,False,False,False
+backtest_multi_stock\NALCO_5pct_monthly.csv,2025,5,5.74,7.974099727646489,-2.2340997276464885,True,True,False
+backtest_multi_stock\NALCO_5pct_monthly.csv,2025,6,2.01,2.0142062450033915,-0.004206245003391729,False,False,False
+backtest_multi_stock\NALCO_5pct_monthly.csv,2025,7,5.93,5.932802601697329,-0.0028026016973292656,True,True,False
+backtest_multi_stock\NALCO_5pct_monthly.csv,2025,8,5.01,5.012341651743668,-0.0023416517436682938,True,True,False
+backtest_multi_stock\NALCO_5pct_monthly.csv,2025,9,3.77,3.773684815273226,-0.003684815273226061,False,False,False
+backtest_multi_stock\NALCO_5pct_monthly.csv,2025,10,0.0,0.0,0.0,False,False,False
+backtest_multi_stock\NALCO_5pct_monthly.csv,2025,11,0.0,0.0,0.0,False,False,False
+backtest_multi_stock\NALCO_5pct_monthly.csv,2025,12,0.0,0.0,0.0,False,False,False
+backtest_multi_stock\NALCO_5pct_monthly.csv,2026,1,0.0,0.0,0.0,False,False,False
+backtest_multi_stock\NALCO_5pct_monthly.csv,2026,2,5.75,5.751485524365707,-0.001485524365707036,True,True,False
+backtest_multi_stock\NALCO_5pct_monthly.csv,2026,3,6.15,6.150632973782266,-0.0006329737822658998,True,True,False
+backtest_multi_stock\NALCO_5pct_monthly.csv,2026,4,0.0,0.0,0.0,False,False,True
+backtest_multi_stock\VEDANTA_10pct_monthly.csv,2025,1,-1.02,-0.6856399999999985,-0.33436000000000154,False,False,False
+backtest_multi_stock\VEDANTA_10pct_monthly.csv,2025,2,-2.72,-6.4621470651374135,3.7421470651374134,False,False,False
+backtest_multi_stock\VEDANTA_10pct_monthly.csv,2025,3,8.26,12.203514189767306,-3.9435141897673063,False,True,False
+backtest_multi_stock\VEDANTA_10pct_monthly.csv,2025,4,-5.55,-4.615709626379938,-0.9342903736200618,False,False,False
+backtest_multi_stock\VEDANTA_10pct_monthly.csv,2025,5,5.04,4.016663907386353,1.023336092613647,False,False,False
+backtest_multi_stock\VEDANTA_10pct_monthly.csv,2025,6,0.0,0.0,0.0,False,False,False
+backtest_multi_stock\VEDANTA_10pct_monthly.csv,2025,7,-3.14,-2.87037215210757,-0.26962784789243033,False,False,False
+backtest_multi_stock\VEDANTA_10pct_monthly.csv,2025,8,9.2,6.280898104574462,2.9191018954255377,False,False,False
+backtest_multi_stock\VEDANTA_10pct_monthly.csv,2025,9,3.49,6.032405835808152,-2.542405835808152,False,False,False
+backtest_multi_stock\VEDANTA_10pct_monthly.csv,2025,10,0.0,0.0,0.0,False,False,False
+backtest_multi_stock\VEDANTA_10pct_monthly.csv,2025,11,-0.25,-0.2517755921496944,0.001775592149694416,False,False,False
+backtest_multi_stock\VEDANTA_10pct_monthly.csv,2025,12,0.0,0.0,0.0,False,False,False
+backtest_multi_stock\VEDANTA_10pct_monthly.csv,2026,1,1.57,1.5685180120562192,0.0014819879437808492,False,False,False
+backtest_multi_stock\VEDANTA_10pct_monthly.csv,2026,2,-0.82,-0.824043374871053,0.004043374871052996,False,False,False
+backtest_multi_stock\VEDANTA_10pct_monthly.csv,2026,3,2.84,-0.5566788092955632,3.396678809295563,False,False,False
+backtest_multi_stock\VEDANTA_10pct_monthly.csv,2026,4,0.0,3.418308601056985,-3.418308601056985,False,False,True
+backtest_multi_stock\VEDANTA_5pct_monthly.csv,2025,1,-1.38,-1.0484800000000072,-0.3315199999999927,False,False,False
+backtest_multi_stock\VEDANTA_5pct_monthly.csv,2025,2,6.57,6.211647885752547,0.3583521142474533,True,True,False
+backtest_multi_stock\VEDANTA_5pct_monthly.csv,2025,3,8.26,8.258802923441767,0.001197076558232979,True,True,False
+backtest_multi_stock\VEDANTA_5pct_monthly.csv,2025,4,-6.27,-6.266543198027607,-0.003456801972392398,False,False,False
+backtest_multi_stock\VEDANTA_5pct_monthly.csv,2025,5,3.94,3.944764427704839,-0.0047644277048388695,False,False,False
+backtest_multi_stock\VEDANTA_5pct_monthly.csv,2025,6,0.0,0.0,0.0,False,False,False
+backtest_multi_stock\VEDANTA_5pct_monthly.csv,2025,7,-0.04,0.2473051496572953,-0.2873051496572953,False,False,False
+backtest_multi_stock\VEDANTA_5pct_monthly.csv,2025,8,6.06,5.765861507022008,0.294138492977992,True,True,False
+backtest_multi_stock\VEDANTA_5pct_monthly.csv,2025,9,3.97,3.9657417494883607,0.0042582505116395275,False,False,False
+backtest_multi_stock\VEDANTA_5pct_monthly.csv,2025,10,0.0,0.0,0.0,False,False,False
+backtest_multi_stock\VEDANTA_5pct_monthly.csv,2025,11,0.0,0.0,0.0,False,False,False
+backtest_multi_stock\VEDANTA_5pct_monthly.csv,2025,12,0.0,0.0,0.0,False,False,False
+backtest_multi_stock\VEDANTA_5pct_monthly.csv,2026,1,6.41,6.410701988619305,-0.0007019886193049274,True,True,False
+backtest_multi_stock\VEDANTA_5pct_monthly.csv,2026,2,0.05,0.0498571154901927,0.00014288450980730338,False,False,False
+backtest_multi_stock\VEDANTA_5pct_monthly.csv,2026,3,4.95,1.4826387997455726,3.4673612002544276,False,False,False
+backtest_multi_stock\VEDANTA_5pct_monthly.csv,2026,4,1.54,5.016130244147177,-3.4761302441471766,False,True,True
+shuffle stocks\shuffle_10pct_monthly.csv,2025,1,-3.96,-2.679469999999995,-1.280530000000005,False,False,False
+shuffle stocks\shuffle_10pct_monthly.csv,2025,2,12.0,10.520103003960246,1.4798969960397539,True,True,False
+shuffle stocks\shuffle_10pct_monthly.csv,2025,3,-3.0,-2.8719318511975955,-0.12806814880240447,False,False,False
+shuffle stocks\shuffle_10pct_monthly.csv,2025,4,-8.85,-10.855488330132268,2.005488330132268,False,False,False
+shuffle stocks\shuffle_10pct_monthly.csv,2025,5,6.13,8.77641855972826,-2.64641855972826,False,False,False
+shuffle stocks\shuffle_10pct_monthly.csv,2025,6,7.73,7.326408655744987,0.4035913442550134,False,False,False
+shuffle stocks\shuffle_10pct_monthly.csv,2025,7,-4.97,-4.706318534612231,-0.2636814653877684,False,False,False
+shuffle stocks\shuffle_10pct_monthly.csv,2025,8,8.75,5.267730522979264,3.4822694770207363,False,False,False
+shuffle stocks\shuffle_10pct_monthly.csv,2025,9,8.68,11.958829435328266,-3.278829435328266,False,True,False
+shuffle stocks\shuffle_10pct_monthly.csv,2025,10,-0.66,-0.6567283838269988,-0.0032716161730012017,False,False,False
+shuffle stocks\shuffle_10pct_monthly.csv,2025,11,1.59,1.587489855621271,0.0025101443787289845,False,False,False
+shuffle stocks\shuffle_10pct_monthly.csv,2025,12,4.1,4.104037415011819,-0.004037415011818979,False,False,False
+shuffle stocks\shuffle_10pct_monthly.csv,2026,1,0.62,0.6192488383676364,0.0007511616323635506,False,False,False
+shuffle stocks\shuffle_10pct_monthly.csv,2026,2,0.0,0.0,0.0,False,False,False
+shuffle stocks\shuffle_10pct_monthly.csv,2026,3,1.61,1.6056090105236231,0.00439098947637695,False,False,False
+shuffle stocks\shuffle_10pct_monthly.csv,2026,4,4.2,4.204837723781618,-0.004837723781617953,False,False,True
+shuffle stocks\shuffle_5pct_monthly.csv,2025,1,-2.2,-2.197985999999985,-0.0020140000000150593,False,False,False
+shuffle stocks\shuffle_5pct_monthly.csv,2025,2,0.81,-2.735874130363014,3.545874130363014,False,False,False
+shuffle stocks\shuffle_5pct_monthly.csv,2025,3,8.26,12.201213725663209,-3.941213725663209,True,True,False
+shuffle stocks\shuffle_5pct_monthly.csv,2025,4,-8.85,-10.734855967564773,1.8848559675647731,False,False,False
+shuffle stocks\shuffle_5pct_monthly.csv,2025,5,12.79,15.170150542190283,-2.380150542190284,True,True,False
+shuffle stocks\shuffle_5pct_monthly.csv,2025,6,1.63,1.6294091098136176,0.0005908901863822535,False,False,False
+shuffle stocks\shuffle_5pct_monthly.csv,2025,7,-6.15,-5.88600578891707,-0.2639942110829301,False,False,False
+shuffle stocks\shuffle_5pct_monthly.csv,2025,8,6.06,5.763664707148486,0.2963352928515137,True,True,False
+shuffle stocks\shuffle_5pct_monthly.csv,2025,9,5.36,5.364886458137286,-0.004886458137285388,True,True,False
+shuffle stocks\shuffle_5pct_monthly.csv,2025,10,-0.81,-0.8086140442664091,-0.0013859557335909045,False,False,False
+shuffle stocks\shuffle_5pct_monthly.csv,2025,11,-1.94,-2.234405339209522,0.29440533920952205,False,False,False
+shuffle stocks\shuffle_5pct_monthly.csv,2025,12,4.48,4.789531773418587,-0.30953177341858673,False,False,False
+shuffle stocks\shuffle_5pct_monthly.csv,2026,1,6.16,6.160397458133815,-0.0003974581338148653,True,True,False
+shuffle stocks\shuffle_5pct_monthly.csv,2026,2,0.42,0.415429707329551,0.0045702926704490054,False,False,False
+shuffle stocks\shuffle_5pct_monthly.csv,2026,3,6.1,6.103855706912986,-0.003855706912986534,True,True,False
+shuffle stocks\shuffle_5pct_monthly.csv,2026,4,2.62,2.62282662853246,-0.0028266285324600737,False,False,True

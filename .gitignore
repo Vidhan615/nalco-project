@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.env
+.env.*
+!.env.example
+*.log
+.idea/
+.vscode/
+data/raw/
+results/local/
+results/demo/
+# Uncompressed local model copies; deterministic compressed policies are published.
+results/**/agent_seed_*.json
+dist/
+build/
+.DS_Store
+Thumbs.db

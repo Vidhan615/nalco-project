@@ -1,0 +1,66 @@
+{
+  "dataset_kind": "historical_unverified",
+  "python": "3.11.9",
+  "numpy": "2.2.5",
+  "pandas": "2.2.3",
+  "episodes": 200,
+  "seeds": [
+    7,
+    42,
+    99
+  ],
+  "config": {
+    "initial_capital": 500000,
+    "fee_bps": 10,
+    "slippage_bps": 5,
+    "allocation": 0.95,
+    "monthly_target": null,
+    "intraday": false
+  },
+  "external_features": [
+    "LME_r1",
+    "LME_r5",
+    "LME_r20",
+    "DXY_r1",
+    "DXY_r5",
+    "DXY_r20",
+    "HONGQIAO_r1",
+    "HONGQIAO_r5",
+    "HONGQIAO_r20",
+    "CHALCO_r1",
+    "CHALCO_r5",
+    "CHALCO_r20"
+  ],
+  "source_fingerprints": {
+    "NALCO": {
+      "filename": "nalco_daily.csv",
+      "sha256": "d629356205bd3d11c91d5bed58003cabd20cc45ce028a1f70013a948cd2aad61"
+    },
+    "LME": {
+      "filename": "lme.csv",
+      "sha256": "0ebcb2dcfa7255c0cd19835f974d0e786cd1c8bd15f4fefd3e9eb413ad3e9df8"
+    },
+    "DXY": {
+      "filename": "dxy.csv",
+      "sha256": "48d59a2fa34c3a96deb28da4acd69c12e455d500dfb7ad34b5052d9fcff4e272"
+    },
+    "HONGQIAO": {
+      "filename": "hongqiao.csv",
+      "sha256": "7c502a10d80c77698d75fb6a623263b3dca428c2482374e3b402bc4daba9029b"
+    },
+    "CHALCO": {
+      "filename": "chalco.csv",
+      "sha256": "35765c45347607f82da06127db323b02ec078516b494c55408e365cf390cd5a8"
+    }
+  },
+  "train_start": "2020-02-04",
+  "train_last_execution": "2024-12-31",
+  "test_first_execution": "2025-01-01",
+  "test_last_execution": "2026-04-08",
+  "notes": [
+    "Reused historical evaluation window; not a fresh final deployment test",
+    "Costs are illustrative, not a complete Indian brokerage/tax schedule",
+    "Raw source provenance and corporate-action adjustments unverified",
+    "No broker, live feed, guaranteed returns or validated forecasting edge"
+  ]
+}

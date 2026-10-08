@@ -1,0 +1,10 @@
+series,file,rows,start,end,duplicate_dates,missing_ohlc_cells,nonpositive_close,invalid_ohlc_rows,weekend_rows,original_order,largest_abs_daily_change_pct,missing_volume,sha256
+NALCO,csv files/nalco_daily.csv,1556,2020-01-01,2026-04-08,0,0,0,0,7,descending,19.19,0.0,d629356205bd3d11c91d5bed58003cabd20cc45ce028a1f70013a948cd2aad61
+HINDALCO,new csv/HINDALCO_stock.csv,1556,2020-01-01,2026-04-08,0,7,0,0,8,ascending,17.061,0.0,6589df52262b83ae4631cd3bd6ded79f3740ecf0e1693de44e2a462e18e6e87e
+VEDANTA,new csv/VEDANTA_stock.csv,1557,2020-01-01,2026-04-08,0,0,0,0,8,ascending,20.435,0.0,c5e4e673ac1612d4ef17e9bd6f7b8d6e8bfe43177071e31b22aa1026cea9f211
+LME,csv files/LME_Aluminium_sorted.csv,1583,2020-01-02,2026-04-08,0,0,0,1088,0,ascending,6.471,,0ebcb2dcfa7255c0cd19835f974d0e786cd1c8bd15f4fefd3e9eb413ad3e9df8
+DXY,csv files/Dollar_Index_sorted.csv,1629,2020-01-01,2026-04-08,0,0,0,15,2,ascending,2.117,,48d59a2fa34c3a96deb28da4acd69c12e455d500dfb7ad34b5052d9fcff4e272
+HONGQIAO,csv files/China Hongqiao Stock Price_daily.csv,1540,2020-01-02,2026-04-08,0,0,0,1,0,descending,16.301,0.0,7c502a10d80c77698d75fb6a623263b3dca428c2482374e3b402bc4daba9029b
+CHALCO,csv files/aluminium corp of china_daily.csv,1540,2020-01-02,2026-04-08,0,0,0,0,0,descending,18.763,0.0,35765c45347607f82da06127db323b02ec078516b494c55408e365cf390cd5a8
+NALCO_WEEKLY,csv files/nalco_weekly.csv,327,2020-01-05,2026-04-05,0,0,0,0,327,descending,17.556,0.0,0624b1ee6d421adda20253130abc00e9937b6727eee173ae52e8d25ad993feae
+NALCO_MONTHLY,csv files/nalco_monthly.csv,76,2020-01-01,2026-04-01,0,0,0,0,22,descending,43.424,0.0,df254f9dc872bae462f5919e63b3c636cbf2881567666bb955e006e07430c051
