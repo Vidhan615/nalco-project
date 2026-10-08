@@ -1,5 +1,7 @@
 # NALCO Aluminium Market Research
 
+[![Tests](https://github.com/Vidhan615/nalco-project/actions/workflows/ci.yml/badge.svg)](https://github.com/Vidhan615/nalco-project/actions/workflows/ci.yml)
+
 **Availability-aware financial research and a tested Q-learning backtesting engine.**
 
 By [Vidhan Doshi](https://github.com/Vidhan615) · Python · Pandas · NumPy · Matplotlib
